@@ -1,0 +1,35 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3-journal
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+.vite/
+
+# Environment
+.env.local
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+# Database
+*.sqlite3
+*.db
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+.venv/
+
+# Build files
+build/
+dist/

@@ -1,0 +1,15 @@
+{
+  "company_name": "EquipRent Pro Heavy Tools Ltd.",
+  "phone": "+91 98765 43210",
+  "email": "support@rentalcrm.com",
+  "address": "Plot 42, Industrial Area Phase II, Bengaluru, Karnataka 560058",
+  "gstin": "29ABCDE1234F1Z5",
+  "currency": "INR (\u20b9)",
+  "currency_symbol": "\u20b9",
+  "default_tax_rate": 18.0,
+  "default_late_fee_per_day": 500.0,
+  "default_security_deposit_pct": 25.0,
+  "grace_period_hours": 2,
+  "require_kyc": true,
+  "max_advance_booking_days": 90
+}
